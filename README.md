@@ -7,5 +7,7 @@
 https://github.com/rickiepark/deep-learning-with-python-notebooks
 </br></br>
 ## **목차**
+각 문제와 데이터셋에 따라 어떠한 파일을 참고해야 하는지 아래 적어두었습니다.
 - IMDB 영화 리뷰 이진 감정 분류 : `IMDB_binary_classification.ipynb`
 - Reuters 데이터셋 뉴스 기사 다중 분류 : `classifying-newswires(Reuters dataset).ipynb`
+- Boston 집값 예측 : `predicting-house-price.ipynb`
