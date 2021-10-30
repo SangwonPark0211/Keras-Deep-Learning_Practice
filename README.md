@@ -11,3 +11,5 @@ https://github.com/rickiepark/deep-learning-with-python-notebooks
 - IMDB 영화 리뷰 이진 감정 분류 : `IMDB_binary_classification.ipynb`
 - Reuters 데이터셋 뉴스 기사 다중 분류 : `classifying-newswires(Reuters dataset).ipynb`
 - Boston 집값 예측 : `predicting-house-price.ipynb`
+- 개와 고양이 사진 분류 : `cats-and-dogs(image classification).ipynb`
+- Convnet 시각화(위에서 사용한 개, 고양이 사진 분류 convnet) : `convnet-visualization.ipynb` 
